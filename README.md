@@ -4,6 +4,12 @@ A web-based food store calculator built with **Next.js** and **TypeScript**.
 
 ---
 
+## Live Demo
+
+The application is deployed on Vercel
+
+https://food-store-calculator.vercel.app/
+
 ## 1. Installation
 
 ### Setup
