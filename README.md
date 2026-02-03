@@ -18,6 +18,7 @@ cd food-store-calculator
 # Install dependencies
 npm install
 
+```
 ## 2. Features
 
 ### Menu & Ordering
